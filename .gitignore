@@ -1,0 +1,4 @@
+venv/
+eventos.db
+__pycache__/
+*.pyc
